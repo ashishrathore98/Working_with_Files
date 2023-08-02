@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Assisted Project\Working with Files\Working with Files\bin\Debug\Working with Files.exe.config
+D:\SimpliLearn Course\Assisted Project\Working with Files\Working with Files\bin\Debug\Working with Files.exe
+D:\SimpliLearn Course\Assisted Project\Working with Files\Working with Files\bin\Debug\Working with Files.pdb
+D:\SimpliLearn Course\Assisted Project\Working with Files\Working with Files\obj\Debug\Working with Files.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Assisted Project\Working with Files\Working with Files\obj\Debug\Working with Files.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Assisted Project\Working with Files\Working with Files\obj\Debug\Working with Files.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Assisted Project\Working with Files\Working with Files\obj\Debug\Working with Files.exe
+D:\SimpliLearn Course\Assisted Project\Working with Files\Working with Files\obj\Debug\Working with Files.pdb
